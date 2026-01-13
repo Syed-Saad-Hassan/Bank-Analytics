@@ -1,8 +1,8 @@
 # 📊 Bank Analytics Project
 
 ## 🔹 Project Overview
-This is an end-to-end **Bank Analytics Project** focused on analyzing **Loan Data** and **Debit & Credit Transactions**.
-The project aims to derive actionable business insights using **Excel, Power BI, Tableau, and SQL** through KPI analysis and interactive dashboards.
+This is an end-to-end Bank Analytics Project focused on analyzing Loan Data and Debit & Credit Transactions.
+The project aims to derive actionable business insights using Excel, Power BI, Tableau, and SQL through KPI analysis and interactive dashboards.
 
 ---
 
@@ -94,6 +94,9 @@ Bank-Analytics
 ---
 
 ## 🔹 Author
-**Syed Saad Hassan**  
+Syed Saad Hassan  
 B.Com (Accounting & Finance)  
-Aspiring Data Analyst | Business Analyst
+Aspiring Data Analyst | Business Analyst | Excel | SQL | Power BI | Tableau
+
+## If you find this project useful
+Please ⭐ star the repository — it helps showcase my work to recruiters!
