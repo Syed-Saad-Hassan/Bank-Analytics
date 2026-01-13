@@ -13,12 +13,11 @@ The project aims to derive actionable business insights using Excel, Power BI, T
 ---
 
 ## 🔹 Tools & Technologies
-- **Microsoft Excel** – Data cleaning & dashboard creation
-- **Power BI** – Interactive loan analytics dashboard
-- **Tableau** – Debit & Credit transaction analysis
-- **MySQL (SQL)** – KPI calculations & data analysis
-- **PowerPoint** – Business presentation & insights
-
+- Microsoft Excel – Data cleaning & dashboard creation
+- Power BI – Interactive loan analytics dashboard
+- Tableau – Debit & Credit transaction analysis
+- MySQL (SQL) – KPI calculations & data analysis
+  
 ---
 
 ## 🔹 Key KPIs Analyzed
