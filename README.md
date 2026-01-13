@@ -47,17 +47,17 @@ The project aims to derive actionable business insights using **Excel, Power BI,
 ## 🔹 Dashboards Preview
 
 ### 📌 Excel – Bank Loan Dashboard
-![Excel Loan Dashboard](screenshots/excel_loan_dashboard.png)
+![Excel Loan Dashboard](Screenshots/excel_loan_dashboard.png)
 
 ---
 
 ### 📌 Power BI – Bank Loan Dashboard
-![Power BI Loan Dashboard](screenshots/powerbi_loan_dashboard.png)
+![Power BI Loan Dashboard](Screenshots/powerbi_loan_dashboard.png)
 
 ---
 
 ### 📌 Tableau – Debit & Credit Dashboard
-![Tableau Debit & Credit Dashboard](screenshots/tableau_bank_debit_credit.png)
+![Tableau Debit & Credit Dashboard](Screenshots/tableau_bank_debit_credit.png)
 
 ---
 
