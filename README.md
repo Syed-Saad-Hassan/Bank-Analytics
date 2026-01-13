@@ -1,26 +1,61 @@
 # 📊 Bank Analytics Project
 
 ## 🔹 Project Overview
-This is an end-to-end Bank Analytics project analyzing **Loan Data** and **Debit & Credit Transactions**.
-The project focuses on KPI analysis, dashboards, and business insights using multiple BI tools.
+End-to-end Bank Analytics project covering **Loan Analysis** and **Debit & Credit Transactions** using Excel, Power BI, Tableau, and MySQL.
+The project focuses on KPI analysis, dashboarding, and business insights.
 
 ---
 
-## 🔹 Tools Used
-- Microsoft Excel
-- Power BI
-- Tableau
-- MySQL (SQL)
+## 🔹 Datasets Used
+- Bank Loan Dataset
+- Debit & Credit Transaction Dataset
 
 ---
 
-## 🔹 Project Contents
-- Loan Analytics Dashboards
-- Debit & Credit Transaction Dashboards
-- SQL Queries for KPI Analysis
+## 🔹 Tools & Technologies
+- Excel (Data cleaning & dashboards)
+- Power BI (Loan analytics dashboards)
+- Tableau (Debit & Credit dashboards)
+- MySQL (SQL queries & KPI analysis)
+
+---
+
+## 🔹 Dashboards
+### 📌 Loan Analytics
+- Excel Dashboard
+- Power BI Interactive Dashboard
+
+### 📌 Debit & Credit Analytics
+- Tableau Interactive Dashboard
+
+---
+
+## 🔹 Key KPIs
+- Total Loan Amount
+- Funded Amount
+- Interest Earned
+- Loan Status Analysis
+- Credit vs Debit Analysis
+- Risk & Default Analysis
+- Region & Branch Performance
+
+---
+
+## 🔹 Business Insights
+- Identified high-performing states and branches
+- Analyzed loan risk and delinquent clients
+- Compared credit vs debit transaction behavior
+- Supported data-driven banking decisions
+
+---
+
+## 🔹 Project Files
+- 📁 Data → Raw datasets
+- 📁 Dashboards → Excel, Power BI, Tableau
+- 📁 SQL → Loan analysis queries
 
 ---
 
 ## 🔹 Author
-Syed Saad Hassan  
-B.Com (Accounting & Finance)
+**Syed Saad Hassan**  
+B.Com (Accounting & Finance) | Data Analytics
